@@ -1,5 +1,10 @@
 # Nachos:-An-Instructional-Operation-System
+#Nachos Not Another Completely Heuristic Operating System is instructional software for teaching undergraduate, and potentially graduate level operating systems courses. It was developed at the University of California, Berkeley, designed by Thomas Anderson, and is used by numerous schools around the world.
 
+#Instruction
+To understand detailed implentation, read the "nachos.pdf" file.
+
+#READme
 This README file describes the Nachos release.  Comments, questions,
 and bug reports are always welcome, and can be directed to 
 nachos@cs.berkeley.edu (for now, an alias to just me, Tom Anderson), or 
